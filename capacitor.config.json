@@ -1,0 +1,9 @@
+{
+  "appId": "com.chetanugale.jsontocsv",
+  "appName": "JSON to CSV",
+  "webDir": "www",
+  "backgroundColor": "#edf0f8",
+  "android": {
+    "allowMixedContent": false
+  }
+}

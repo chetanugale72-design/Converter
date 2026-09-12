@@ -1,0 +1,15 @@
+{
+  "name": "json-to-csv-converter",
+  "version": "1.0.0",
+  "description": "JSON to CSV Converter by Chetan Ugale",
+  "scripts": {
+    "sync": "npm install && mkdir -p www && cp index.html styles.css app.js manifest.webmanifest sw.js icon-192.png icon-512.png maskable-512.png apple-touch-icon.png www/ && npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/android": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}

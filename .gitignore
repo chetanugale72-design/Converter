@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Capacitor generated output (rebuilt in CI)
+www/
+android/
+ios/
+
+# Gradle / Android build outputs
+*.apk
+*.aab
+local.properties
+.gradle/
+captures/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
